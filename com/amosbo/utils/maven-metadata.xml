@@ -3,10 +3,10 @@
   <groupId>com.amosbo</groupId>
   <artifactId>utils</artifactId>
   <versioning>
-    <release>0.3</release>
+    <release>0.1alpha</release>
     <versions>
-      <version>0.3</version>
+      <version>0.1alpha</version>
     </versions>
-    <lastUpdated>20180328020547</lastUpdated>
+    <lastUpdated>20180329081011</lastUpdated>
   </versioning>
 </metadata>
